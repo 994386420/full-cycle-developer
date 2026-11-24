@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "title": "",
+  "profile": "generic",
+  "created_at": "",
+  "environment": {"report": ""},
+  "sources": [],
+  "design": {"status": "pending", "refs": [], "reason": ""},
+  "coverage": {"ui": "", "interaction": "", "data": "", "tracking": "", "compatibility": "", "performance": ""},
+  "decisions": [],
+  "tasks": [],
+  "handoff": [],
+  "learnings": [],
+  "reconciliation": "",
+  "cleanup": {"reviewed": false, "note": ""}
+}

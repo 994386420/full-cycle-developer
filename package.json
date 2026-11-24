@@ -1,0 +1,12 @@
+{
+  "name": "full-cycle-developer-tools",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "全流程开发技能的本地 PNG 比稿工具",
+  "dependencies": {
+    "pixelmatch": "7.1.0",
+    "pngjs": "7.0.0",
+    "ssim.js": "3.5.0"
+  }
+}
